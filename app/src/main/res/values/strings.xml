@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForegroundServiceTimer</string>
+    <string name="channel_name">notification channel</string>
+    <string name="channel_description">notification channel</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
